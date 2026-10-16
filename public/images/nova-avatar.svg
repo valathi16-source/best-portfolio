@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="novaCore" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#a855f7" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#050814" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowNova" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <!-- Background Glow Ring -->
+  <circle cx="100" cy="100" r="90" fill="url(#novaCore)"/>
+  <circle cx="100" cy="100" r="75" fill="#0b1126" stroke="#00f5ff" stroke-width="2" stroke-dasharray="6 4"/>
+  
+  <!-- AI Bot Head Base -->
+  <rect x="65" y="60" width="70" height="70" rx="20" fill="#0f172a" stroke="#a855f7" stroke-width="2.5" filter="url(#glowNova)"/>
+  
+  <!-- Glowing Eyes / Optical Display -->
+  <circle cx="85" cy="92" r="7" fill="#00f5ff" filter="url(#glowNova)"/>
+  <circle cx="85" cy="92" r="3" fill="#ffffff"/>
+  <circle cx="115" cy="92" r="7" fill="#00f5ff" filter="url(#glowNova)"/>
+  <circle cx="115" cy="92" r="3" fill="#ffffff"/>
+
+  <!-- Audio Waveform Mouth -->
+  <path d="M 82,112 L 88,112 L 92,108 L 96,116 L 100,106 L 104,116 L 108,108 L 112,112 L 118,112" 
+        fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Antenna -->
+  <line x1="100" y1="60" x2="100" y2="40" stroke="#00f5ff" stroke-width="2.5"/>
+  <circle cx="100" cy="38" r="5" fill="#00f5ff" filter="url(#glowNova)"/>
+
+  <!-- Side Ear Pods -->
+  <rect x="56" y="80" width="9" height="30" rx="4" fill="#a855f7"/>
+  <rect x="135" y="80" width="9" height="30" rx="4" fill="#a855f7"/>
+</svg>

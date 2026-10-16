@@ -1,0 +1,121 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 720
+>>
+stream
+BT
+/F1 22 Tf
+50 740 Td
+(VALATHI - ASPIRING FULL-STACK DEVELOPER) Tj
+0 -24 Td
+/F2 10 Tf
+(Email: valathi.developer@example.com | Location: Tamil Nadu, India | GitHub: github.com/valathi) Tj
+0 -20 Td
+(========================================================================================) Tj
+0 -26 Td
+/F1 14 Tf
+(PROFESSIONAL PROFILE) Tj
+0 -18 Td
+/F2 10 Tf
+(Aspiring Full-Stack Developer with passion for React, Python automation, Linux systems,) Tj
+0 -14 Td
+(and ethical cybersecurity. Eager to engineer resilient, modern web architectures.) Tj
+0 -26 Td
+/F1 14 Tf
+(CORE TECHNICAL SKILLS) Tj
+0 -18 Td
+/F2 10 Tf
+(Frontend: React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Vite, Framer Motion) Tj
+0 -14 Td
+(Backend & Scripting: Python, RESTful APIs, Node.js, Express, Bash Scripting) Tj
+0 -14 Td
+(Systems & Tools: Linux (Ubuntu/Debian), Git, GitHub, VS Code, Web Speech API) Tj
+0 -14 Td
+(Security & AI: Cybersecurity Fundamentals, OWASP Best Practices, Local AI Assistants) Tj
+0 -26 Td
+/F1 14 Tf
+(KEY PROJECTS) Tj
+0 -18 Td
+/F2 11 Tf
+(1. Futuristic Developer Portfolio & Command Center) Tj
+0 -14 Td
+/F2 9 Tf
+(   - Architected responsive 3D cyber-aesthetic interface with React, Tailwind & Vite.) Tj
+0 -12 Td
+(   - Embedded simulated hacker terminal and Web Speech AI assistant with fallback.) Tj
+0 -18 Td
+/F2 11 Tf
+(2. Linux Helper & Diagnostics Toolkit) Tj
+0 -14 Td
+/F2 9 Tf
+(   - Engineered automated Python/Bash CLI for system telemetry, disk hygiene, and backup daemons.) Tj
+0 -26 Td
+/F1 14 Tf
+(EDUCATION & CERTIFICATIONS) Tj
+0 -18 Td
+/F2 10 Tf
+(B.Tech in Computer Science & Engineering | Anna University Affiliated College (2023 - Present)) Tj
+0 -14 Td
+(Certifications: Responsive Web Design (freeCodeCamp), Linux Fundamentals, Python Mastery) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000001037 00000 n 
+0000001108 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+1174
+%%EOF
